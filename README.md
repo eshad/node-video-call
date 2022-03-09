@@ -4,20 +4,9 @@ Video-chat By Node Js
 
 ![IMG](./video-chat.png)
 
-Check out the live demo: https://video-chat-app-v1.herokuapp.com/
+Check out the live demo: https://shielded-brook-54535.herokuapp.com/66893e1d-1ca7-479b-9882-71d3aa9e023e
 
-An article I wrote which explains how I build this: https://bit.ly/3wh0gyR
 
-This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
+## This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
 
-## How to run the project?
-
-1. Clone this repository in your local system.
-2. Open the command prompt from your project directory and run the command `npm start`.
-3. Go to your browser and type `http://127.0.0.1:5000/` in the address bar.
-4. Hurray! That's it.
-
-### ToDo
-
-- [ ] - Recreate the Front-end with React.
 
